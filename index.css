@@ -1,0 +1,20 @@
+.banner{
+    width: 100%;
+    min-height: 900px;
+    background-color: gray;
+}
+.title{
+    font-size: 60px;
+    text-align: center;
+}
+.card{
+    width: 50%;
+    min-height: 900px;
+    /* text-align: center; */
+    background-color: aliceblue;
+}
+.image1{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
